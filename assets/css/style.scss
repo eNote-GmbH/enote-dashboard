@@ -11,8 +11,8 @@ table:nth-of-type(2) {
 	background: lightgreen;
 }
 
-th {
-	text-align: center;
+thead>tr>th {
+	text-align: center !important;
 }
 
 tr,
