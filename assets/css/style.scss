@@ -11,15 +11,6 @@ table:nth-of-type(2) {
 	background: lightgreen;
 }
 
-
-tbody {
-
-	tr:hover>td,
-	tr:hover>th {
-		background-color: $table-hover-color;
-	}
-}
-
 th {
 	text-align: center;
 }
