@@ -1,2 +1,1 @@
 # enote-dashboard
-enote-dashboard
